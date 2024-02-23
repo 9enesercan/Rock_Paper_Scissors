@@ -1,0 +1,5 @@
+C:\Users\Enes\Pictures\burdanal\WinFormsApp4.exe
+C:\Users\Enes\Pictures\burdanal\WinFormsApp4.dll
+C:\Users\Enes\Pictures\burdanal\WinFormsApp4.deps.json
+C:\Users\Enes\Pictures\burdanal\WinFormsApp4.runtimeconfig.json
+C:\Users\Enes\Pictures\burdanal\WinFormsApp4.pdb
