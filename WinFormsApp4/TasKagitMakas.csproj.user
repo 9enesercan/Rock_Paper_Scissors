@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Enes\Pictures\burdanal\WinFormsApp4\WinFormsApp4\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="OyunTurSecForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OyunTurSecForm.Designer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GecisBBForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GecisKBForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Oyun_BB_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NesneSecForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Oyun_KB_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="isimForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

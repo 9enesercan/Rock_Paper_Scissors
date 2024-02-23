@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="
+		 .Nesneler">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABBAAAEEAEAAAAAAAABAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Makas">
+    <Position X="1.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAEAAAAAAAAAAAQAiAACCAAIQAgIA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Usta_makas">
+    <Position X="1.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgEAGAAAABAAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Kagit">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAQAAAAEAAAAAAAAQAAQAmAACAAAAQAAIA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Ozel_kagit">
+    <Position X="10.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAIAAgAACAAAAAgAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Tas">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAABAAEAAQAAAAEAAAQAiAACAAAAQAAIA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Agir_tas">
+    <Position X="6" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEEAAABEAAAAAAAAgAACAAAAAAAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Oyuncu">
+    <Position X="6" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAQQAAAAAAAAAABQAAAAUAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Bilgisayar">
+    <Position X="1.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.Kullanici">
+    <Position X="10.25" Y="16.5" Width="1.5" />
+    <InheritanceLine Type="WinFormsApp4.Oyuncu" FixedToPoint="true">
+      <Path>
+        <Point X="6.75" Y="15.661" />
+        <Point X="6.75" Y="16.125" />
+        <Point X="11" Y="16.125" />
+        <Point X="11" Y="16.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp4.App">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
